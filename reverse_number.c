@@ -1,4 +1,4 @@
-//Revrsiing a three digit number in c
+//Reversing a three digit number in c
 //BY Amayash Sinha (@ZOCO1206)
 #include <stdio.h>
 
